@@ -1,1 +1,1 @@
-# initial-scaffolding
+# Auth0 Implementation with Spring Boot
